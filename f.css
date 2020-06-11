@@ -1,0 +1,393 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.backgrou{
+    width: 100%;
+    height:400px;
+    background-color:#EAE1D0 ;
+}
+.menu ul{
+    display: inline-flex;
+    margin: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+    margin-top: 30px;
+    
+    
+}
+
+.menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    
+    
+    
+}
+
+.menu a {
+text-decoration: none;
+color: black;
+
+}
+
+.logo{
+    width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    
+}
+
+.app{
+   width: 40%;
+    float: right;
+}
+.app img{
+    width: 70%;
+    margin-left: 100px;
+}
+.banner{
+    width: 80%;
+    height: 70%;
+    top: 25%;
+    left: 50px;
+    position: absolute;
+    color: black;
+}
+.apptext h1{
+    font-size: 50px;
+    width: 640px;
+    position: relative;
+    
+}
+.apptext pre{
+    width: 650px;
+    font-size: 15px;
+    
+    line-height: 25px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+
+}
+.btn{
+    
+    position: absolute;
+    top: 390px;
+    left: 45px;
+    background-color: #211F21;
+    border: none;
+    padding: 12px 28px;
+    color: white;
+}
+.border{
+    height: 400px;
+    width: 100%;
+    background-color:#212121 ;
+    margin-top:500px ;
+    
+    }
+    .imgs{
+        display: flex;
+        margin-top: -500px;
+        
+        
+        
+    }
+    #pic{
+        width: 380px;
+        height: 380px;
+        margin-right: 39px;
+        margin-left: 32px;
+        margin-top: -100px;
+    }
+    #picc{
+        width: 380px;
+        height: 380px;
+        margin-right: 32px;
+        margin-left: 32px;
+        margin-top: -100px;
+    }
+    #piccc{
+        width: 380px;
+        height: 380px;
+        margin-left: 32px;
+        margin-top: -100px
+
+    }
+    .buton
+    {
+        margin-top: -20px;
+    }
+    .butonn{
+        padding: 11px 100px;
+        margin-left: 98px;
+        background-color:#D99830 ;
+        border: none;
+        color: white;
+        
+    }
+    .butonnn{
+        padding: 11px 100px;
+        margin-left: 185px;
+        background-color:#D99830 ;
+        border: none;
+        color: white;
+    }
+    .butonnnn{
+        padding: 11px 100px;
+        margin-left: 185px;
+        background-color:#D99830 ;
+        border: none;
+        color: white;
+    }
+    .pic{
+        margin-top: 200px;
+        width: 100%;
+    }
+    .edit{
+        width: 100%;
+    }
+    .back{
+        width:100% ;
+        height: 450px;
+        background-color:#F6F2E7 ;
+    }
+    .editbon{
+        height:300px ;
+        width: 300px;
+        float: right;
+        margin: 80px;
+        margin-left: 900px;
+        position: absolute;
+
+    }
+    .shadowbon{
+        height: 310px;
+        width: 310px;
+        float: right;
+        margin: 50px;
+        margin-left: 920px;
+        background-color:#EAE2CD ;
+        position : absolute;
+    }
+    .textt h1 {
+     position: absolute;
+     margin: 100px;
+     margin-left: 160px;
+     font-size: 40px;
+     font-weight: bold;
+
+    }
+    .textt pre{
+        margin-left: 100px;
+        margin-top: 160px;
+        position: absolute;
+        font-size: 16px;
+    }
+    .next{
+        width:100% ;
+        height: 300px;
+        background-color: #EAE1D0;
+        
+    }
+    
+    
+      
+.who h1{
+    position: absolute;
+    margin: 50px;
+    margin-top: 80px;
+    margin-left: 80px;
+    color:#141010 ;
+    font-weight: bold;
+    font-size: 40px;
+}
+.who pre{
+    position: absolute;
+    margin:50px ;
+    margin-top: 100px;
+    margin-left: 33%;
+    color:#141010 ;
+    font-weight: bold;
+    font-size: 16px;
+    
+
+}
+.vl {
+position: absolute;
+    border-left: 3px solid#D99830 ;
+    height: 150px;
+    margin-top:100px;
+    margin-left: 30%;
+}
+.editbut{
+    padding: 12px 45px;
+    background-color:#212121 ;
+    color: white;
+    border: none;
+    position: absolute;
+    left: 33%;
+    top: 2587px;
+}
+.lam{
+    width:100% ;
+    height: 420px;
+    background-color:#D99830
+    
+}
+.imgg{
+    display:flex;
+    margin-top: -400px;
+    
+}
+
+.cupcake{
+    width: 250px;
+    height: 250px;
+    margin-right: 35px;
+    margin-left: 40px;
+    margin-top: 65px;
+    
+    
+    
+}
+.cof{
+    width: 250px;
+    height: 250px;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-top: 65px;
+    
+}
+.cokie{
+    width: 250px;
+    height: 250px;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-top: 65px;
+    
+}
+.bread{
+    width: 250px;
+    height: 250px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 65px;
+    
+    
+
+}
+.tr
+{display: flex;
+    
+}
+.sweets {
+    margin-left: 130px;
+    margin-right: 120px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.coffee{
+    margin-left: 140px;
+    margin-right: 120px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.breadd{
+    margin-left: 150px;
+    margin-right: 120px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cokies{
+    margin-left: 150px;
+    margin-right: 120px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.signinbox{
+    height: 230px;
+    width:100% ;
+    background-color:#EAE1D0 ;
+
+}
+.signedit h1{
+    position: absolute;
+    margin-top:40px ;
+    margin-left:45% ;
+    font-size: 35px;
+    font-weight: bolder;
+    color:#212121 ;
+    
+}
+.signinbox input{
+    
+    margin-top: 150px;
+    margin-left: 5%;
+    width: 30%;
+    height: 35px;
+    background-color: white;
+    border: none;
+
+}
+.go{
+    
+}
+.goedit{
+    padding: 12px 28px;
+    position: absolute;
+    left: 1100px;
+    top:3200px;
+    background-color:#212121 ;
+    color: white;
+    border: none;
+}
+.last{
+    width:100% ;
+    height: 350px;
+    background-color:#212121 ;
+
+}
+
+.wow{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 520px;
+}
+.icon-bar {
+    width: 30%; 
+    
+    position: absolute; 
+    top: 3500px;
+    
+    
+    margin-left: 488px;
+  }
+  
+  .icon-bar a {
+    float: left; 
+    text-align: center; 
+    width: 20%; 
+    padding: 12px 0;
+    transition: all 0.3s ease; 
+    color: white; 
+    font-size: 36px; 
+  }
+  
+  .icon-bar a:hover {
+    background-color: #D99830; 
+  }
+  
+  
